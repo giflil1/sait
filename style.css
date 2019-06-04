@@ -2,7 +2,7 @@ body {
 	margin-left: 50px;
 	margin-right: 50px;
 	background-image: url(body.jpg);
-	background-size: 30%;
+	
 }
 .top {
 	margin-top: 50px;
@@ -13,16 +13,17 @@ body {
 	height: 330px;
 }
 .sss {
-	background-color: yellow;
-	height: 500px;
+
+	height: 400px;
+	background-color: rgba(0, 0, 0, 0.3)
 }
 .conez {
-	background-color: green;
+	
 	height: 100px;
 }
 
 .w {
-	background-color: red;
+	;
 	height: 500px;
 }
 .flex {
@@ -33,7 +34,6 @@ body {
 }
 .dw {
 	height: 40px;
-	background-color: red;
 	margin-left: auto;
 	margin-right: auto;
 	width: 200px;
@@ -45,10 +45,9 @@ body {
 	padding-top: 70px;
 }
 
-.div1 {
-	background-color: 
+
+h5 {
+	color: white;
 }
 
-a {
-	color: ;
-}
+
